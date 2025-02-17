@@ -1,5 +1,5 @@
 # MAKTABA-TUL-AHADITH-FYP
-- Abstract:
+1. Abstract:
 In the modern age, access to authentic Islamic knowledge and services is of utmost importance for 
 Muslims worldwide. However, finding reliable sources and utilities that cater to their diverse needs can 
 be challenging, especially when it comes to credibility and quality. The difficulty in navigating and 
@@ -18,13 +18,13 @@ seamless cross-platform accessibility, facilitating widespread utilization. By a
 with Islamic scholarship, "Maktaba-tul-Ahadith" endeavors to be a pivotal resource, fostering a deeper 
 understanding of Islamic teachings and practices.
 
-- Product: 
+2. Product: 
 “Maktaba-tul-Ahadith” is a web application aimed at providing a user-friendly platform for accessing 
 Islamic books, Hadith, and Quranic resources in multiple languages and advanced features. The 
 software addresses the challenge of limited accessibility to authentic Islamic texts, offering a solution 
 that integrates traditional scholarship with modern technology.
 
-- Background:
+3. Background:
 The domain of this project involves the intersection of technology and Islamic scholarship, recognizing 
 the need for a comprehensive platform that caters to the diverse linguistic and informational 
 requirements of users seeking deeper insights into Islamic literature. 
@@ -34,18 +34,18 @@ are dedicated solely to the Quran, others to Hadith studies, and some offer just
 Despite the advancements in Artificial Intelligence (AI) in various fields, it has not yet been fully 
 implemented in Islamic studies. We drew inspiration from major related works, and our points of 
 differentiation are as follows: 
-1. Maktaba Shamila: This is the largest database of Islamic texts on the Internet, but it is only 
+- Maktaba Shamila: This is the largest database of Islamic texts on the Internet, but it is only 
 available in Arabic, difficult to navigate, and lacks specific features. We aim to expand this 
 database by offering it in multiple languages and implementing features to enhance navigation and 
-text search capabilities. 
-2. Kitab-o-Sunnat Library: It offers Islamic books in Urdu as downloadable PDFs. We plan to 
+text search capabilities.
+- Kitab-o-Sunnat Library: It offers Islamic books in Urdu as downloadable PDFs. We plan to 
 make these books available in a Unicode system for easier searching and browsing, which is a 
 substantial undertaking. 
-3. Quran(.com): This website includes the Quran with translations and brief tafseers (exegesis). We 
+- Quran(.com): This website includes the Quran with translations and brief tafseers (exegesis). We 
 intend to implement advanced AI algorithms to allow users to search for specific topics and gain 
 in-depth knowledge quickly, as opposed to manual searching. We will also provide additional 
 tafseers along with their authenticity status. 
-4. Islam 360: This mobile application lacks availability for desktop users and has limitations in 
+- Islam 360: This mobile application lacks availability for desktop users and has limitations in 
 searchability, Islamic utilities, tools, knowledgeable articles, and biographies to aid users in 
 understanding Islam. It also lacks differentiation between authentic and unauthentic content. We 
 will address these limitations by introducing a methodology to display the grading of Ahadith and 
@@ -73,7 +73,7 @@ and browsers.
 • Aid scholars and students in faster and more accurate research with advanced technology. 
 • Make users engaged with the content by focusing on user experience and feedback. 
 
-- Scope:
+4. Scope:
 The scope of this document encompasses the development of "Maktaba-tul-Ahadith," covering 
 features such as Quranic translations, AI-driven chatbot for queries, Hadith collections, Islamic books, 
 a robust search engine, prayer timings, an Islamic calendar, a zakat calculator, biographies, 
@@ -88,7 +88,7 @@ The scope is deliberately narrowed to these specified content elements to ensure
 and a more efficient project timeline. The selected content will be presented with all associated 
 features.
 
-- Business Goals:
+5. Business Goals:
 The business goals of “Maktaba-tul-Ahadith” are as follows: 
 • Establish "Maktaba-tul-Ahadith" as a reliable and comprehensive platform for Islamic knowledge. 
 • Ensure the platform's accessibility and relevance to a global audience by accommodating various 
@@ -103,14 +103,14 @@ continuous learning.
 improvements. Implement an iterative development approach, incorporating user feedback to 
 enhance features and address evolving needs.
 
-- Document Conventions:
+6. Document Conventions:
 • Each section is numbered according to a hierarchical structure for easy navigation and reference. 
 • Bold text is used to emphasize section headings, subheadings, and important keywords. 
 • Italicized text is used as caption for diagrams, tables, and images. 
 • A list of abbreviations and other words related to the domain, alongside their meanings and 
 explanation is given at the end of the document for better understanding.
 
-- Miscellaneous:
+7. Miscellaneous:
 Development Environment: 
 This project is developed using a straightforward stack of technologies that emphasizes simplicity and 
 efficiency. A strong grip on initial technology is necessary to better understand advanced technology. 
