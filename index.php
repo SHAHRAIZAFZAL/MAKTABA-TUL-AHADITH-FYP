@@ -12,7 +12,7 @@ include SITE_PATH . '/db-connection.php';
 
 <head>
     <meta charset="UTF-8">
-    <meta name="author" content="Fraz Aslam">
+    <meta name="author" content="Shahraiz Afzal">
     <meta name="description" content="Main/Home page of the Islamic website Maktaba tul Ahadith">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Maktaba tul Ahadith - مكتبة الأحاديث</title>

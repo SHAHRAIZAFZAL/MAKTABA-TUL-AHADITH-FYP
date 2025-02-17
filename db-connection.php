@@ -1,5 +1,5 @@
 <?php
-$servername = "localhost:3307";
+$servername = "localhost:80";
 $username = "testuser";
 $password = "test11user";
 $database = "maktaba_tul_ahadith";
@@ -9,3 +9,4 @@ if ($conn->connect_errno) {
     echo "Failed to connect to MySQL: " . $conn->connect_error;
     exit();
 }
+
